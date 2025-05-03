@@ -1,7 +1,7 @@
 Hi there! 👋 I'm Rabin Adhikari
 🎓 Computer Engineering Student
 📍 Pursuing my Bachelor’s Degree | Passionate about technology and innovation
-Instagram https://www.instagram.com/rabin_adhikari_17/
+
 
 
 # 💻 Tech Stack:
